@@ -1,0 +1,216 @@
+.numbered-list > li {
+    margin: 0px 0px 0.7em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 19.04px;
+    font-family: inherit;
+    vertical-align: baseline;
+    max-width: 100%;
+    position: relative;
+    min-height: 65px;
+}
+
+.numbered-list > li {
+    margin: 0px 0px 0.7em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 19.04px;
+    font-family: inherit;
+    vertical-align: baseline;
+    max-width: 100%;
+    position: relative;
+    min-height: 65px;
+}
+
+.numbered-list > li {
+    margin: 0px 0px 0.7em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-style: inherit;
+    font-size: 19.04px;
+    font-family: inherit;
+    vertical-align: baseline;
+    max-width: 100%;
+    position: relative;
+    min-height: 65px;
+}
+
+.numbered-list > li {
+    margin: 0px 0px 0.7em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-style: inherit;
+    font-size: 19.04px;
+    font-family: inherit;
+    vertical-align: baseline;
+    max-width: 100%;
+    position: relative;
+    min-height: 65px;
+}
+
+.numbered-list > li {
+    margin: 0px 0px 0.7em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 19.04px;
+    font-family: inherit;
+    vertical-align: baseline;
+    max-width: 100%;
+    position: relative;
+    min-height: 65px;
+}
+
+#isPasted {
+    color: rgb(78, 78, 78);
+    font-family: "Source Sans Pro", "Lucida Sans Unicode", "Lucida Sans Unicode", sans-serif;
+    font-size: 19.04px;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    orphans: 2;
+    text-align: start;
+    text-indent: 0px;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    display: inline !important;
+    float: none;
+}
+
+#isPasted {
+    margin: 2em auto 0.8em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6em;
+    font-family: "Source Sans Pro", "Lucida Sans Unicode", sans-serif;
+    vertical-align: baseline;
+    color: rgb(78, 78, 78);
+    line-height: 1.15em;
+    letter-spacing: -0.015em;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    orphans: 2;
+    text-align: start;
+    text-indent: 0px;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+#isPasted {
+    margin: 2em auto 0.8em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6em;
+    font-family: "Source Sans Pro", "Lucida Sans Unicode", sans-serif;
+    vertical-align: baseline;
+    color: rgb(78, 78, 78);
+    line-height: 1.15em;
+    letter-spacing: -0.015em;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    orphans: 2;
+    text-align: start;
+    text-indent: 0px;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+#isPasted {
+    margin: 2em auto 0.8em;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6em;
+    font-family: "Source Sans Pro", "Lucida Sans Unicode", sans-serif;
+    vertical-align: baseline;
+    color: rgb(78, 78, 78);
+    line-height: 1.15em;
+    letter-spacing: -0.015em;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    orphans: 2;
+    text-align: start;
+    text-indent: 0px;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.numbered-list {
+    margin: 0px 50px 20px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19.04px;
+    font-family: "Source Sans Pro", "Lucida Sans Unicode", sans-serif;
+    vertical-align: baseline;
+    counter-reset: li 0;
+    list-style: none;
+    position: relative;
+    text-shadow: rgba(255, 255, 255, 0.5) 0px 1px 0px;
+    color: rgb(78, 78, 78);
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    letter-spacing: normal;
+    orphans: 2;
+    text-align: start;
+    text-indent: 0px;
+    text-transform: none;
+    white-space: normal;
+    widows: 2;
+    word-spacing: 0px;
+    -webkit-text-stroke-width: 0px;
+    background-color: rgb(255, 255, 255);
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
