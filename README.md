@@ -49,7 +49,7 @@ This URL Shortner app is basically built using **[Django](https://www.djangoproj
 	  3. Use command: ***python manage*.py makemigrations**.
  6. This code is done according to the heroku deployement which means some changes are needed to be done in the code by the user before activating the server. Just follow below points to change few things in the code.
  
-    a. As a local server ip is always set to 127.0.0.1 but in the code host will be always  https://hly.herokuapp.com/ . Therefore change this host link to https://127.0.0.1:8000/ in templates/dashboard.html everywhere. This change will help in redirecting saved or configured URL's to redirect from their short form.
+    a. As a local server ip is always set to 127.0.0.1 but in the code host will be always  https://hly.herokuapp.com/ . Therefore change this host link to http://127.0.0.1:8000/ in templates/dashboard.html everywhere. This change will help in redirecting saved or configured URL's to redirect from their short form.
 
     b. If user want to change port then do above changes accordingly in templates/dashboard.html and in ALLOWED_HOSTS section in settings.py file, so that new host can be allowed.
  7. Now it's time to deploy the app locally, so use command: ***python manage*.py runserver**
