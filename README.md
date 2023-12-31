@@ -38,10 +38,10 @@ This URL Shortner app is basically built using **[Django](https://www.djangoproj
  2. **[Download](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)** and install python (3.10.0) and add path to your environment.
  3. It is better to create virtual environment for installing django, for  creating virtual environment [refer here](https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/).
 	 1. Open command prompt ( or command line or terminal).
-	  2. for windows, use command: **pip install virtualenvwrapper-win**
+	  2. for windows, use command: **pip install virtualenvwrapper-win** or install virtual environment with this command pip install virtualenv and make your environment with command python -m venv myenv where myenv is a custom name, user can change it.
 	  3. Then use command: **mkvirtualenv venv** to create a virtual environment titled 'venv'.
  4. Now, it' time to install django, to install django [refer here](https://docs.djangoproject.com/en/3.2/topics/install/) or follow these steps: 				
-	  1. for windows, use command: **workon venv** to activate virtual environment.
+	  1. for windows, use command: **workon venv** to activate virtual environment or run command myenv\Scripts\activate.
 	  2. Then install django using command: **pip install  django**.
  5. With Django Migrations, you can easily keep multiple databases in sync with your models. To apply migartions, 
 	  1. Navigate to the folder where you have unzipped the app, you can [refer here ](https://www.computerhope.com/issues/ch000795.htm) if you want to know how to navigite using cmd or use command: **cd path** path can be like C:\Users\user\Downloads\url_shortner-master
