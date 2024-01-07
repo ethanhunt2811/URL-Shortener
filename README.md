@@ -84,3 +84,17 @@ URL shortners aren't just useful with Twitter. There are lots of situations wher
 
 
 #### It is open source software and free to use.
+
+Here are some screenshots that shows some glimpse of this project
+
+1. Server Start
+![2, terminal1](starting server.png)
+
+2.  Login page
+![3, terminal2](login page.png)
+
+3. SignUp page
+![4, terminal3](signup page.png)
+
+4. Saved Url page
+![5. terminal4](saved url .png)
