@@ -88,13 +88,26 @@ URL shortners aren't just useful with Twitter. There are lots of situations wher
 Here are some screenshots that shows some glimpse of this project
 
 1. Server Start
-![2, terminal1](starting server.png)
+   
+![starting server](https://github.com/ethanhunt2811/URL-Shortener/assets/86483407/4001afa0-13d7-4104-9c27-f3273a12eea9)
 
-2.  Login page
-![3, terminal2](login page.png)
+2. Homepage
+   
+![homepage](https://github.com/ethanhunt2811/URL-Shortener/assets/86483407/7d376b23-544f-4379-90d3-f368415121f4)
 
-3. SignUp page
-![4, terminal3](signup page.png)
+3.  Login page
+   
+![login page](https://github.com/ethanhunt2811/URL-Shortener/assets/86483407/41cd8dcf-b991-406b-8846-4b5ca73c592c)
+ 
+4. SignUp page
 
-4. Saved Url page
-![5. terminal4](saved url .png)
+![signup page](https://github.com/ethanhunt2811/URL-Shortener/assets/86483407/7ea90f48-d62c-473d-a871-6477a0f8cf80)
+
+
+5. Saved Url page
+
+![saved url ](https://github.com/ethanhunt2811/URL-Shortener/assets/86483407/2f26e7d2-4dff-4d24-b3b9-88d003fa99e2)
+
+6. Dashboard Page
+
+![dashboard page](https://github.com/ethanhunt2811/URL-Shortener/assets/86483407/e9844fde-0765-41cb-ae7a-473492b0ec79)
